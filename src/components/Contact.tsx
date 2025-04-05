@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client"; // must use this directive for using state and hooks
 import { useState } from "react";
 
